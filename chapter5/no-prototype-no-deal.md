@@ -23,7 +23,7 @@ Then, what about if you do a prototype now? At this time of the course, you have
 
 You can make a mockup by hand, drawing and using the right colors. You can even create a video to show how you think your app should work. But please, remember not to do vertical videos:
 
-{%youtube%}f2picMQC-9E{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f2picMQC-9E?si=q7iDjPiIgkiu-yxG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video from [Glove and Boots](https://www.youtube.com/watch?v=Bt9zSfinwFA). The video is published under the Standard YouTube license)._
 

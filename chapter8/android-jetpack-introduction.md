@@ -9,7 +9,7 @@ As defined on the Android Developers website,
 
 In other words, _Android Jetpack_ is a collection of software components that were realesed in 2018 as a way to facilitate the development of Android applications. For example, as it was said in the previous section, Android apps can now be easily implemented using the _MVVM_ architectural pattern thanks to the _Jetpack components_. In addition to this, _Jetpack_ also counts with some other package libraries that aim to help developers to reduce boilerplate code, accelerate the development of apps, take advantage of _Kotlin language_, amonst some other very interesting functionalities.
 
-{%youtube%}LmkKFCfmnhQ{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LmkKFCfmnhQ?si=s9AxNv8BjyHfSJsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Furthermore, as the image below depicts it, there are four current components that constitute _Android Jetpack_ for developing high quality applications, with their own specific purpose and features.
 

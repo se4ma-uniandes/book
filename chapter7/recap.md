@@ -3,7 +3,7 @@
 Remember that one of the most important things in the engineering disciplines is _**design**_, and computer science, software engineering and systems/computing engineering are not the exception. Although we do not follow "heavy" a priori methods to design and test the design of software before the construction phase \(like other engineers do\), we have a plethora of methods, models, and tools in our toolbox that allow us to design software applications. For us, _**design**_ is highly important because we are engineers and architects, and as a consequence, \(i\) we build software systems that solve human kind issues/problems, and \(ii\) we must deal with a set of design constraints \(e.g., budget, a specific software stack, or a set of service level agreements\). In order to build software systems, we _must_ design (or define) an architecture. Please take a look to the following video of Prof. Alex Orso \(Georgia Tech\) that briefly explains two different definitions of *software architecture*:
 
 
-{%youtube%}6bX2EPI-BqE{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6bX2EPI-BqE?si=PzRoncSvBXW-ov2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video by Prof. Alex Orso from Georgia Tech available at [YouTube](https://www.youtube.com/watch?v=6bX2EPI-BqE). The video is published under the Standard YouTube license )_
 

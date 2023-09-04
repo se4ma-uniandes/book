@@ -8,7 +8,6 @@ cache:
 
 before_script:
   - npm install gitbook-cli -g # install gitbook
-  - npm install gitbook-plugin-youtubex
   - gitbook install
   - gitbook fetch 2.6.7 # fetch specific version
 

@@ -91,4 +91,4 @@ From the 2019 Google I/O 2019 Sessions
 
 >  Declarative UI frameworks eliminate whole classes of bugs. But they can also be a puzzle until you figure out how to structure your app logic around them. Walk through Flutter's app with live data and see how to structure content in a simple yet scalable way. You'll come out understanding the main approaches of state management in declarative frameworks and have a concrete applicable solution.
 
-{%youtube%}d_m5csmrf7I{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_m5csmrf7I?si=7Tc704iiX_DUvH0p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

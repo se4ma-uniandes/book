@@ -16,7 +16,7 @@ Material Design is inspired in tactile and physical qualities of materials (pape
 ink), including physical laws of movement. It emphasizes on user actions to ensure that
 main functionality is clear, because user actions are reflected naturally in the GUI. Check the following video to get an idea of material design.
 
-{%youtube%}cQzien5H2Do{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQzien5H2Do?si=RjSY7TdOtiAXhl8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video by Google Design available at [YouTube](https://www.youtube.com/watch?time_continue=45&v=cQzien5H2Do). The video is published under the Standard YouTube license )_
 
@@ -26,7 +26,7 @@ But, what is elevation? Material design was thought in a three-dimensional space
 
 Material Design is not just a set of rules that someone came up with. It is the result of a set of experiments on how we as people relate to objects, and how we can take advantage of the phone screen to not only show elements to the users, but also to let them feel how they can interact with the elements. Watch the following video about how material design was developed.
 
-{%youtube%}rrT6v5sOwJg{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrT6v5sOwJg?si=CV1hJobAG7Rwv64G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video by Google Design available at [YouTube](https://www.youtube.com/watch?v=rrT6v5sOwJg). The video is published under the Standard YouTube license )_
 

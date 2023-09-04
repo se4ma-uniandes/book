@@ -5,7 +5,7 @@ Think for a few seconds on the following question: _What architecture should I u
 
 It depends on the type of application you are building and the design constraints you need to meet. The first step on selecting a suitable architecture is to understand how the system components should interact together and how the information flows across them. The good news is that there is a catalog of already defined and proved architectures styles and patterns. You might be familiar with the _Model-View-Controller pattern_ and the _REST architectural style_. But why is the former a pattern and the latter a style? Watch the following video by Prof. Alex Orso (Georgia Tech), which briefly explains what an architectural style is.
 
-{%youtube%}jKPyb6GatJU{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jKPyb6GatJU?si=kbP4ZLeh-GJ8g4x7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video by Prof. Alex Orso from Georgia Tech available at [Youtube](https://www.youtube.com/watch?v=jKPyb6GatJU). The video is published under the Standard YouTube license )_
 
@@ -15,7 +15,7 @@ If you do not remember your software architecture course, you might be a bit con
 For instance, the micro-services and SOA buzzwords refer to two architectural styles that belong to a family called **call-return** style. In this family, a consumer component invokes functionality available in or offered by provider components. Check one more video by Prof. Alex Orso that presents six different architectural styles:
 
 
-{%youtube%}JLbo9Lvvy5M{%endyoutube%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JLbo9Lvvy5M?si=l2IbDt07xzfBCFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _(Video by Prof. Alex Orso from Georgia Tech available at [YouTube](https://www.youtube.com/watch?v=JLbo9Lvvy5M). The video is published under the Standard YouTube license )_
 
