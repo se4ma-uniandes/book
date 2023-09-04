@@ -1,4 +1,5 @@
-# Chapter 1: The mobile ecosystem
+# Chapter 1: The mobile ecosystem - Testing integration with gitbook
+
 
 \(By Mario Linares-Vásquez\)
 
