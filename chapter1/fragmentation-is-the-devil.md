@@ -1,7 +1,7 @@
 # 1.1 Fragmentation is the devil
 
 ---
-Let´s use a fictional description abaut a successful app:
+Let´s use a fictional description about a successful app:
 
 _ROCCZIO APPS is a mobile development company that has released a very cool and successful game for mobile devices three years ago: Hungry Porks. They have reached about 2 million downloads in the mobile markets, and now, ROCCZIO is planning a new release that could be downloaded only by users of Apple devices._
 

@@ -3,7 +3,7 @@
 - [Introduction](README.md)
 - [Welcome !!](welcome.md)
 
-- [Chapter 1: Testing integration with gitbook](chapter1.md)
+- [Chapter 1: The mobile ecosystem](chapter1.md)
   - [Fragmentation is the devil ](chapter1/fragmentation-is-the-devil.md)
   - [There is more than one type of mobile app](chapter1/there-is-more-than-one-type-of-mobile-app.md)
   - [... more than one type of app](chapter1/more-than-one-type-of-app.md)
