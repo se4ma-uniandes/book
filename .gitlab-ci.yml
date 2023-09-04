@@ -8,8 +8,7 @@ cache:
 
 before_script:
   - npm install gitbook-cli -g # install gitbook
-  - gitbook install
-  - gitbook fetch 2.6.7 # fetch specific version
+  - gitbook install # fetch specific version
 
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
