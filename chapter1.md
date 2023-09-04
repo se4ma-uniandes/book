@@ -1,4 +1,4 @@
-# Chapter 1: The mobile 
+# Chapter 1: The mobile ecosystem
 
 
 \(By Mario Linares-Vásquez\)
