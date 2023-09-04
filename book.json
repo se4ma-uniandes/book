@@ -1,0 +1,16 @@
+{
+    "plugins": ["youtubex","analytics","footer-sdluniandes"],
+    "pluginsConfig": {
+        "analytics": {
+            "google": "UA-113708473-1"
+        },
+        "footer-sdluniandes":{
+            "banner": "https://uniandes-se4ma.gitlab.io/books/assets/banner.png",
+            "text": "This book has been created for the Mobile App Development Course at Universidad de Los Andes. &#169 Mario Linares-Vásquez & Sergio Velásquez. Universidad de los Andes, Bogotá, Colombia. 2018-2020",
+            "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+            "licenseLink": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "licenseImage": "https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"
+        }
+    },
+    "gitbook":">= 3.0.0"
+}

@@ -1,0 +1,8 @@
+#Chapter 3: Give me a context and I will give you an app
+\(By Mario Linares-Vásquez and Sergio Velásquez\)
+
+---
+
+One of the powerful elements in design thinking is the empathize step, and in particular, the philosophy of understanding the problems and situations from an "inside-out" perspective. In that sense, understanding the context is a "must" if we want to apply design thinking in a mobile app development process. But what is a context? The merriam-webster dictionary defines context as _"the interrelated conditions in which something exists or occurs : environment, setting"_ Pretty easy definition, right? But, in the **context** of a mobile app, what is the **context**? Well, the context is everything that surrounds the app, the environment where the app will be installed and used.
+
+A solution that does not consider the context is a solution (i) expected to fail with a high probability, or (ii) expected to work only on the "happy paths". For example, assume there is a device with a display panel in which the contrast/brightness can not be modified, by default it is in a low-energy mode, and the display is located in such a way that during sunny days, the light goes directly to the display. What is the problem? You can not operate the display because you do not see anything on it !!! (This is a real problem in some of the copy machines in the university) What was the problem? The display in the copy machines was designed without considering the context, and in particular, different settings/environments in which the machine could be operated. Now , lets say you are going to design a solution for personas with disabilities. You need to be in their shoes to design a good solution, you need to understand the context.
