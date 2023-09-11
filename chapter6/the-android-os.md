@@ -3,7 +3,7 @@
 
 ---
 
-The Android OS is an open source mobile operative system developed by Google and based on the Linux Kernel. It is composed of a set of architectural layers following a software stack model (i.e., there is no communication between layers that are not neighbors in the stack), having the Linux Kernel as the foundation, and an Applications layer as the closest interaction point for the end users. The first version of Android was released in 2008 and as of today 29 versions of the OS have been released.
+The Android OS is an open source mobile operating system developed by Google and based on the Linux Kernel. It is composed of a set of architectural layers following a software stack model (i.e., there is no communication between layers that are not neighbors in the stack), having the Linux Kernel as the foundation, and an Applications layer as the closest interaction point for the end users. The first version of Android was released in 2008 and as of today 29 versions of the OS have been released.
 
 
 > The kernel is the core of an OS that provides main tasks such as process, device, and resources management. Kernels can follow a microkernel, monolithic, or hybrid architecture.  The latter one combines both, microkernel and monolithic architectures. The Linux kernel is a [monolithic kernel](https://en.wikipedia.org/wiki/Monolithic_kernel).
