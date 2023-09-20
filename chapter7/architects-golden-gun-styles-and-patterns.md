@@ -1,13 +1,13 @@
 # 7.3 Architects' mojo: styles and patterns
 
 ---
-Think for a few seconds on the following question: _What architecture should I use? _
+Think for a few seconds on the following question: _What architecture should I use?_
 
 It depends on the type of application you are building and the design constraints you need to meet. The first step on selecting a suitable architecture is to understand how the system components should interact together and how the information flows across them. The good news is that there is a catalog of already defined and proved architectures styles and patterns. You might be familiar with the _Model-View-Controller pattern_ and the _REST architectural style_. But why is the former a pattern and the latter a style? Watch the following video by Prof. Alex Orso (Georgia Tech), which briefly explains what an architectural style is.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jKPyb6GatJU?si=kbP4ZLeh-GJ8g4x7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-_(Video by Prof. Alex Orso from Georgia Tech available at [Youtube](https://www.youtube.com/watch?v=jKPyb6GatJU). The video is published under the Standard YouTube license )_
+_(Video by Prof. Alex Orso from Georgia Tech available at [Youtube](https://www.youtube.com/watch?v=jKPyb6GatJU). The video is published under the Standard YouTube license)_
 
 If you do not remember your software architecture course, you might be a bit confused. Style? Pattern? As described by Prof. Orso in his video, an architectural style is a specific way of combining components and connections, and a well-defined data flow/communication between the components.
 > And what about the patterns? ..... No worries, we will talk about patterns later.
@@ -17,7 +17,7 @@ For instance, the micro-services and SOA buzzwords refer to two architectural st
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JLbo9Lvvy5M?si=l2IbDt07xzfBCFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-_(Video by Prof. Alex Orso from Georgia Tech available at [YouTube](https://www.youtube.com/watch?v=JLbo9Lvvy5M). The video is published under the Standard YouTube license )_
+_(Video by Prof. Alex Orso from Georgia Tech available at [YouTube](https://www.youtube.com/watch?v=JLbo9Lvvy5M). The video is published under the Standard YouTube license)_
 
 After watching Prof. Orso's video, let me clarify some concepts. In general, there are four (high-level) categories of architectural styles (a.k.a., families) that follow the components-and-connectors metaphor:
 
@@ -50,6 +50,6 @@ Lets close this section now. Remember, designing a software system requires you 
 
 >Now, browse internet and look for real examples of each one of the styles presented in Prof. Orso's video.  We might ask you later in the weekly quiz about the examples :\). The following videos, explain some examples of real systems and their underlying architectural style, but you should look for other examples: <br>
 [Napster Example - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=odPVTQG7IaY)
-_(Video by Prof. Alex Orso from Georgia Tech available at YouTube and  published under the Standard YouTube license )_ <br>
+_(Video by Prof. Alex Orso from Georgia Tech available at YouTube and  published under the Standard YouTube license)_ <br>
 [Skype Example - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=tjgqOXbQBJo)
-_(Video by Prof. Alex Orso from Georgia Tech available at YouTube and  published under the Standard YouTube license )_
+_(Video by Prof. Alex Orso from Georgia Tech available at YouTube and  published under the Standard YouTube license)_
