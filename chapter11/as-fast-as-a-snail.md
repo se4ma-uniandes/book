@@ -1,4 +1,4 @@
-# 11.1 As fast as a snail
+# 11.1 As fast as a Snail
 \(By Mario Linares-Vásquez\)
 
 
