@@ -22,7 +22,7 @@ Material Design is inspired in tactile and physical qualities of materials (pape
 
 <p align="center">
 <a href="https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign" target="_blank">
-  <img src="../assets/chapter5/MaterialDesign.jpg">
+  <img src="../assets/chapter5/MaterialDesign.jpg" style="max-width: 1080px !important;">
 </p>
 
 _(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://youtu.be/Y0UEGsvcYvk). The video is published under the Standard YouTube license )_
