@@ -12,16 +12,16 @@ Now, the question is how to design the GUI of a mobile app. The answer is that t
 
 First, let's understand these new concepts.
 
-**A Design System is a comprehensive set of guidelines, principles, components, and rules that govern the creation and maintenance of a product's user interface. It typically includes design elements such as colors, typography, spacing, layout grids, iconography, components (like buttons, form elements, cards), and usage guidelines. Examples of design systems include Google's Material Design, IBM Design Language, and Airbnb's Design System.** 
+**A Design System** is a comprehensive set of guidelines, principles, components, and rules that govern the creation and maintenance of a product's user interface. It typically includes design elements such as colors, typography, spacing, layout grids, iconography, components (like buttons, form elements, cards), and usage guidelines. Examples of design systems include Google's Material Design, IBM Design Language, and Airbnb's Design System.
 
-**A Design Metaphor is a shared language, a set of principles of style that guide the creation of a Design System and a GUI. It can be understood as a conceptual framework or analogy used to convey the underlying principles, functionality, or purpose of a product or system. An example of design metaphor is the use of "material" concept in the Google's Material Design System. This metaphor is inspired by the physical world and is based on the idea that the user interface should mimic the experience of physical material, using shadows, depth, and motion to create a visually appealing and coherent experience.**    
+**A Design Metaphor**   is a shared language, a set of principles of style that guide the creation of a Design System and a GUI. It can be understood as a conceptual framework or analogy used to convey the underlying principles, functionality, or purpose of a product or system. An example of design metaphor is the use of "material" concept in the Google's Material Design System. This metaphor is inspired by the physical world and is based on the idea that the user interface should mimic the experience of physical material, using shadows, depth, and motion to create a visually appealing and coherent experience.  
 
 For instance, in the particular case of Android apps, the design metaphor is the concept of "Material" and its applied in the **"Material Design System"**. You can see all the Metaphor and Design System documentation in [Material io](https://material.io/guidelines/#).
 
 Material Design is inspired in tactile and physical qualities of materials (paper and ink), including physical laws of movement. It emphasizes on user actions to ensure that main functionality is clear, because user actions are reflected naturally in the GUI. Check the following videos to get an idea of Material Design.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign" target="_blank"><img width="100%" src="../assets/chapter5/MaterialDesign.jpg" style="max-width: 1080px;"/></a>
+<a href="https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign" target="_blank"><img width="1080px" height="600px" src="../assets/chapter5/MaterialDesign.jpg" style="max-width: 1080px;"/></a>
 </p>
 _(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign). The video is published under the Standard YouTube license )_
 
