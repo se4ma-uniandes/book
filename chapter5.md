@@ -1,5 +1,5 @@
 # Chapter 5: A GUI is better than two thousand words
-\(By Mario Linares-Vásquez, Mariana Villamizar, Juan Santiago Acevedo, Gustavo Alegría, and Sergio Velásquez\)
+\(By Mario Linares-Vásquez, Mariana Villamizar, Juan Santiago Acevedo, Gustavo Alegría, Sergio Velásquez and Vivian Gómez\)
 
 ---
 
@@ -8,13 +8,22 @@ Mobile apps are user-interaction driven, because the user interacts with the app
 
 OK, lets rephrase it, there is no way to have a GUI-dependent app without a GUI. Consequently, during all the design thinking steps it is really important to take into account the GUI of your mobile apps, because mobile apps are a particular type of software that are highly-dependent on the GUI.
 
-Now, the question is how to design the GUI of a mobile app. The answer is that there are a lot of artifacts and tools. However, the most important elements to have in mind are the design metaphors promoted by each platform. **A metaphor is a shared language, a set of principles of style, branding, and defined interactions, that aims to give guidelines on how you should make your design.**    
+Now, the question is how to design the GUI of a mobile app. The answer is that there are many artifacts and tools available. However, the most important elements to consider are the Design Metaphors promoted by each platform and how they are applied in the Design Systems and GUI. 
 
-For instance, in the particular case of Android apps, the design metaphor is called  **"Material Design"**. You can see all the metaphor documentation in [Material io](https://material.io/guidelines/#).
+First, let's understand these new concepts.
 
-Material Design is inspired in tactile and physical qualities of materials (paper and
-ink), including physical laws of movement. It emphasizes on user actions to ensure that
-main functionality is clear, because user actions are reflected naturally in the GUI. Check the following video to get an idea of material design.
+**A Design System is a comprehensive set of guidelines, principles, components, and rules that govern the creation and maintenance of a product's user interface. It typically includes design elements such as colors, typography, spacing, layout grids, iconography, components (like buttons, form elements, cards), and usage guidelines. Examples of design systems include Google's Material Design, IBM Design Language, and Airbnb's Design System.** 
+
+**A Design Metaphor is a shared language, a set of principles of style that guide the creation of a Design System and a GUI. It can be understood as a conceptual framework or analogy used to convey the underlying principles, functionality, or purpose of a product or system. An example of design metaphor is the use of "material" concept in the Google's Material Design System. This metaphor is inspired by the physical world and is based on the idea that the user interface should mimic the experience of physical material, using shadows, depth, and motion to create a visually appealing and coherent experience.**    
+
+For instance, in the particular case of Android apps, the design metaphor is the concept of "Material" and its applied in the **"Material Design System"**. You can see all the Metaphor and Design System documentation in [Material io](https://material.io/guidelines/#).
+
+Material Design is inspired in tactile and physical qualities of materials (paper and ink), including physical laws of movement. It emphasizes on user actions to ensure that main functionality is clear, because user actions are reflected naturally in the GUI. Check the following videos to get an idea of Material Design.
+
+<p align="center">
+<a href="https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign" target="_blank"><img width="800" src="../assets/chapter5/MaterialDesign.jpg"/></a>
+</p>
+_(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://www.youtube.com/watch?app=desktop&v=Y0UEGsvcYvk&ab_channel=GoogleDesign). The video is published under the Standard YouTube license )_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQzien5H2Do?si=RjSY7TdOtiAXhl8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -30,7 +39,7 @@ Material Design is not just a set of rules that someone came up with. It is the 
 
 _(Video by Google Design available at [YouTube](https://www.youtube.com/watch?v=rrT6v5sOwJg). The video is published under the Standard YouTube license )_
 
-In the case of **iOS**, the design is based on specific **[Human interface guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)** that are close to a **"Flat Design"** metaphor.
+In the case of **iOS**, the design is based on specific **[Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/)** that are close to a **"Flat Design"** metaphor.
 
 There are three essential characteristics of the iOS design metaphor:
 
@@ -57,4 +66,4 @@ https://developer.apple.com/videos/play/wwdc2018/802/
 
 Metaphors exist so that you can rely on them to extend the utility or value of your app. It is not about following some rules so that every app is perfectly design; it is about understanding the capabilities of the platform you are building your app upon.
 
-Note that the metaphor/guidelines also come with a specific set of GUI components; thus, having a generic design that is expected to work in both platforms is a hard task to achieve, because there is a difference on how an app will look in the two platforms. One way to achieve GUI consistency across platforms is by implementing mobile web or hybrid apps instead of native apps. Another option is to design the app by considering only the GUI components that are mirrored in both platforms (e.g., button); however, this option limits the user experience on each platform.
+Note that the metaphor provides the principles of its own GUI components, usually available in Design Systems. Thus, having a generic design that is expected to work on both platforms is a challenging task to achieve because there are differences in how an app will look on the two platforms. One way to achieve GUI consistency across platforms is by implementing mobile web or hybrid apps instead of native apps. Another option is to design the app by considering only the GUI components that are mirrored on both platforms (e.g., buttons); however, this option limits the user experience on each platform.
