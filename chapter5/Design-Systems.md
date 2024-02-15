@@ -64,7 +64,7 @@ _(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/communi
 #### Date pickers
 Time pickers help users select and set a specific time and date.
 
-![Date and Time Pickers](../assets/Progress.png)
+![Date and Time Pickers](../assets/DatePickers.png)
 
 _(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
