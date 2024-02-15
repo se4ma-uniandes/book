@@ -1,11 +1,11 @@
-# 5.1 'Good to Go:'_ Let's explore the Design Systems
+# 5.1 _'Good to Go:'_ Let's explore the Design Systems
 ___
 Let's remember that design systems are fundamental tools aimed at creating consistent and effective user experiences in any software product.
 So, first, let's ask ourselves ... Are design systems just for operating systems?
 
 The answer is no. Design Systems exist not only for platforms or operating systems, but also for companies that want to have a recognized brand that can be identified by any client or user. For example, some well-known ones are [IBM Carbon Design System](https://carbondesignsystem.com/), [Decathlon Design System](https://www.decathlon.design/), and [Airbnb Design System](https://airbnb.design/). In these Design Systems, companies define their appearance and identity for any software product. First, the branding: logo, colors, typography, icons, style of illustrations or photographs. Second, all the components such as buttons, inputs, titles, cards, dialogues, chips, dropdowns, navigations, animations, etc. And finally, the way to distribute and use all these components: the patterns, layout, grid, margins, sizes, locations, etc.
 
-![](../assets/AirbnbDS)
+![Airbnb](../assets/AirbnbDS.png)
 
 _(Taken from Airbnb Figma Community UI Kit by [Isabella Scheier](https://www.figma.com/community/file/1206705782258966386))_
 
