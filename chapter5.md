@@ -24,8 +24,9 @@ Material Design is inspired in tactile and physical qualities of materials (pape
 
 <p>
 <p align="center">
-<img width="400" src="https://media.giphy.com/media/e27Tja7A7A7GE/giphy.gif">
+<img width="400" src="../assets/MotionMaterialDesign.gif">
 </p>
+
 _(Video by Google Design available at [YouTube](https://www.youtube.com/watch?time_continue=45&v=cQzien5H2Do). The video is published under the Standard YouTube license )_
 
 The composition foundations are geometric forms based on circles, squares, diagonal and orthogonal strokes, in a three-dimensional space in which the light and the shadows reflect the elevation of the elements that make up a view.
