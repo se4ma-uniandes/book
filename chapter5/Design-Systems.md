@@ -9,7 +9,7 @@ The answer is no. Design Systems exist not only for platforms or operating syste
 
 _(Taken from Airbnb Figma Community UI Kit by [Isabella Scheier](https://www.figma.com/community/file/1206705782258966386))_
 
-In this way, if the company has several software products, such as web pages, marketplaces, mobile apps, and/or why not? ... XR apps (like in the case of Apple with Apple Vision Pro), etc. All these products will be designed with the same "shared language" and guidelines, and the new designers and developers won't have to reinvent the design, but they will also use the Design System to maintain the identity, consistency, and user experience.
+In this way, if the company has several software products, such as web pages, marketplaces, mobile apps (smart phone and smart watch), and/or why not? ... XR apps (like in the case of Apple with Apple Vision Pro), etc. All these products will be designed with the same "shared language" and guidelines, and the new designers and developers won't have to reinvent the design, but they will also use the Design System to maintain the identity, consistency, and user experience.
 
 Many Design Systems are open and allow designers to use them as a reference. This implies that they can also use the software components and modify colors and some properties to adjust them to their product and brand. For example, IBM Carbon is Open Source and has an open community, both in design and implementation of the components. In this way, we can find Figma resources of each Design System (also called UI Kits) to use as a reference:
 
@@ -28,7 +28,77 @@ The design systems of Android and iOS are not just sets of static guidelines; th
 
 By adopting these systems, designers and developers can ensure that their applications adhere to the design standards set by Android and iOS, ensuring a **cohesive and familiar appearance for users**. Additionally, they facilitate the implementation of best design practices and help to mitigate usability and accessibility issues.
 
- 
+First, let's see the available components in each Design System, and in the next section, we will talk about how to use these foundations and put our own touch on the design to customize it and give our applications an identity.
+
+**Material Design System**
+As we mentioned earlier, Material Design has its own base UI components. They are implemented and available for development in [Android, Flutter, and Web](https://m3.material.io/develop) and can be accessed for designing mockups using tools like [Figma with the UI Kit](https://www.figma.com/community/file/1035203688168086460).
+
+**Human Interface Guidelines**
+In the case of Apple, there are the Human Interface Guidelines available, which provide guides for different platforms, from Apple Watch, iPhones, and iPads to Apple VisionOS. You can consult specific [Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) and also use the [Figma UI Kit](https://www.figma.com/community/file/1248375255495415511) to create your own mockups.
+
+
+### The components
+
+Some components available in each Design system are:
+
+> Note that there are some differences between GUI components depending on the platform. It is important because it is a challenge to maintain consistency between platforms, as you can see in Section [The platforms war: Android UI components vs iOS UI components](chapter5/GUI-components-comparison.md)
+
+#### Buttons
+
+Buttons help people take actions, such as sending an email, sharing a document, or liking a comment.
+
+>There exist many types of buttons, not just the typical rectangle. For this reason, you can find many options within each design system. As each one has its own metaphor, they may look different; however, you can use similar types for each platform. For example, if you use icon buttons in Android, search for their counterpart in iOS.
+
+![Buttons](../assets/ButtonsComponent.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+
+#### Progress indicators
+Progress indicators inform users about the status of ongoing processes, such as loading an app, submitting a form, or saving updates. They communicate an app’s state and indicate available actions, such as whether users can navigate away from the current screen.
+
+![Progress](../assets/Progress.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+#### Date pickers
+Time pickers help users select and set a specific time and date.
+
+![Date and Time Pickers](../assets/Progress.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+#### Dialogs / Alerts
+
+Dialogs (in Android)  / Alerts (in iOS) provide important prompts in a user flow. They can require an action, communicate information for making decisions, or help users accomplish a focused task.
+
+![Dialog / Alerts](../assets/DialogAlerts.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+#### Menus
+
+![Menus ](../assets/Menus.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+#### Cards
+In Material Design, Cards are versatile containers, holding anything from images to headlines, supporting text, buttons, lists, and other components.
+There are not cards available in teh Design system of iOS. How ever you can create ypur own component, in your own design system.
+
+>It implies that if you want to mantain consistency with iOS, you need to create a component similar to Cards, but following design guidelines of iOS . This also happens with tooltips and carousels.
+
+![Material Design Cards](../assets/CardsMD.png)
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+There are many components that you can see and consult in each Design System, such as [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511). There, you can create your own mockups by copying each component and modifying colors and composition in each view/screen.
+Refer to Section [Designing GUI Mocks](chapter5/Designing-GUI-Mocks.md) for some advice on starting to design your own app.
+
+
+
+
+
 
 
 
