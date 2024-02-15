@@ -20,7 +20,9 @@ For instance, in the particular case of Android apps, the design metaphor is the
 
 Material Design is inspired in tactile and physical qualities of materials (paper and ink), including physical laws of movement. It emphasizes on user actions to ensure that main functionality is clear, because user actions are reflected naturally in the GUI. Check the following videos to get an idea of Material Design.
 
-![_(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://youtu.be/Y0UEGsvcYvk). The video is published under the Standard YouTube license )_](../assets/MaterialDesign.jpg)
+![_(Taken from "Making Material Design: Crafting Material")_](../assets/MaterialDesign.jpg)
+
+_(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://youtu.be/Y0UEGsvcYvk). The video is published under the Standard YouTube license )_
 
 <p>
 <p align="center">
