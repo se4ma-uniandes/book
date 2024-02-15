@@ -20,14 +20,12 @@ For instance, in the particular case of Android apps, the design metaphor is the
 
 Material Design is inspired in tactile and physical qualities of materials (paper and ink), including physical laws of movement. It emphasizes on user actions to ensure that main functionality is clear, because user actions are reflected naturally in the GUI. Check the following videos to get an idea of Material Design.
 
-<img width="1080" height="800" style="max-width: 1080px !important; height: 800px !important;" src="../assets/chapter5/MaterialDesign.jpg">
+![_(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://youtu.be/Y0UEGsvcYvk). The video is published under the Standard YouTube license )_](../assets/MaterialDesign.jpg)
 
-![MD](../assets/MaterialDesign.jpg)
-
-_(Taken from "Making Material Design: Crafting Material" Video available at [YouTube](https://youtu.be/Y0UEGsvcYvk). The video is published under the Standard YouTube license )_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQzien5H2Do?si=RjSY7TdOtiAXhl8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<p>
+<p align="center">
+<img width="400" src="https://media.giphy.com/media/e27Tja7A7A7GE/giphy.gif">
+</p>
 _(Video by Google Design available at [YouTube](https://www.youtube.com/watch?time_continue=45&v=cQzien5H2Do). The video is published under the Standard YouTube license )_
 
 The composition foundations are geometric forms based on circles, squares, diagonal and orthogonal strokes, in a three-dimensional space in which the light and the shadows reflect the elevation of the elements that make up a view.
