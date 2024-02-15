@@ -39,9 +39,9 @@ In the case of Apple, there are the Human Interface Guidelines available, which 
 
 ### The components
 
-Some components available in each Design system are:
+There are common components used in many applications, and we want you to have an idea of how different or similar these components are.
 
-> Note that there are some differences between GUI components depending on the platform. It is important because it is a challenge to maintain consistency between platforms, as you can see in Section [The platforms war: Android UI components vs iOS UI components](chapter5/GUI-components-comparison.md)
+> Note that there are some differences between GUI components depending on the platform. It is important because it is a challenge to maintain consistency between platforms.
 
 #### Buttons
 
@@ -51,7 +51,7 @@ Buttons help people take actions, such as sending an email, sharing a document, 
 
 ![Buttons](../assets/ButtonsComponent.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 
 #### Progress indicators
@@ -59,14 +59,23 @@ Progress indicators inform users about the status of ongoing processes, such as 
 
 ![Progress](../assets/Progress.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 #### Date pickers
 Time pickers help users select and set a specific time and date.
 
 ![Date and Time Pickers](../assets/DatePickers.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+
+#### Navigation bar / Tab bar
+
+Dialogs (in Android)  / Alerts (in iOS) provide important prompts in a user flow. They can require an action, communicate information for making decisions, or help users accomplish a focused task.
+
+![Navigation bar / Tab bar](../assets/TabNavBar.png)
+Navigation bars in Android and Tab bar in iOS offer a persistent, convenient way to switch between primary destinations in an app. 3-5 destinations is the recommended range.
+
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 #### Dialogs / Alerts
 
@@ -74,13 +83,14 @@ Dialogs (in Android)  / Alerts (in iOS) provide important prompts in a user flow
 
 ![Dialog / Alerts](../assets/DialogAlerts.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 #### Menus
+Menus display a list of choices on a temporary surface. They appear when users interact with a button, action, or other control.
 
 ![Menus ](../assets/Menus.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 #### Cards
 In Material Design, Cards are versatile containers, holding anything from images to headlines, supporting text, buttons, lists, and other components.
@@ -90,7 +100,7 @@ There are not cards available in teh Design system of iOS. How ever you can crea
 
 ![Material Design Cards](../assets/CardsMD.png)
 
-_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
+_(Taken from Figma UI Kits of [Material Design v3](https://www.figma.com/community/file/1035203688168086460) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511))_
 
 There are many components that you can see and consult in each Design System, such as [Material Design v3](https://www.figma.com/community/file/1248375255495415511) and [Human Interface Guidelines for iOS 17](https://www.figma.com/community/file/1248375255495415511). There, you can create your own mockups by copying each component and modifying colors and composition in each view/screen.
 Refer to Section [Designing GUI Mocks](chapter5/Designing-GUI-Mocks.md) for some advice on starting to design your own app.
