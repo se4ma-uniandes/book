@@ -7,7 +7,7 @@ But... we are engineers. We don't know about designing graphic interfaces, at le
 
 <p>
 <p align="center">
-<img width="400" src="../assets/UX-VS-UI.jpg">
+<img src="../assets/UX-VS-UI.jpg">
 
 _(Free picture from [https://www.pexels.com](https://www.pexels.com/photo/white-printer-paper-196645/). Creative Commons Zero (CC0) license)._
 </p>
@@ -16,7 +16,7 @@ We can consider two main concepts in GUI design. The first one is UX, which focu
 
 <p>
 <p align="center">
-<img width="400" src="../assets/banner_UI-UX.jpg">
+<img src="../assets/banner_UI-UX.jpg">
 
 _(Taken from [synapseindia.com](https://www.synapseindia.com/technology/ui-ux-design-company.html))._
 
@@ -27,7 +27,7 @@ The second is the **UI model**, that is _how_ I want the user to see the things 
 
 <p>
 <p align="center">
-<img width="400" src="../assets/WireframeVSMockupVSPrototype.gif">
+<img src="../assets/WireframeVSMockupVSPrototype.gif">
 
 _(Taken from [Promatics.com](https://www.promaticsindia.com/blog/wireframes-vs-mockups-vs-prototype-how-they-differ-from-each-other) )_
 
