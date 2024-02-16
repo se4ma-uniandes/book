@@ -117,7 +117,7 @@ There are tools that can help you visualize and create your own color palettes a
 
 ### Fonts
 
-Selecting the right font is also a challenging task. Usually, you need to choose just two fonts. The first one should align with the brand, convey the intended values, and allow for highlighting titles and sections with greater hierarchy. We recommend searching for fonts based on what you want to convey. For example, in tools like Dafont or Google Fonts, we can find these types of fonts for the second selection:
+Selecting the right font is also a challenging task. Usually, you need to choose just two fonts. The first one should align with the brand, convey the intended values, and allow for highlighting titles and sections with greater hierarchy. We recommend searching for fonts based on what you want to convey. For example, in tools like [Dafont](https://www.dafont.com/es/) or [Google Fonts](https://fonts.google.com/), we can find these types of fonts for the second selection:
 
 <p>
 <p align="center">
@@ -142,7 +142,8 @@ _(Taken from [SeneCare](https://thesoftwaredesignlab.github.io/Senecare/) )_
 Other resources to find your fonts:
 
 - [Font Pair - Helps you pair Google Fonts together](https://fontpair.co/)
-
+- [Dafont](https://www.dafont.com/es/)
+- [Google Fonts](https://fonts.google.com/)
 - [Font Joy](http://fontjoy.com/)
 
 ## Graphic elements
@@ -192,15 +193,13 @@ _(Taken from [Designshack](https://designshack.net/articles/trends/icon-design/)
 <img src="../assets/FullColorIcons.png">
 
 _(Taken from [Dribble by Lei S](https://dribbble.com/shots/6435172-Simple-Colour-Icon))_
-
 </p>
 
-
 You can find exportable icons to Figma and development tools at:
-- https://iconos8.es/icons
-- https://m2.material.io/design/iconography/system-icons.html
-- https://www.flaticon.com/
-- https://fontawesome.com/
+- [https://iconos8.es/icons](https://iconos8.es/icons)
+- [https://m2.material.io/design/iconography/system-icons.html](https://m2.material.io/design/iconography/system-icons.html)
+- [https://www.flaticon.com/](https://www.flaticon.com/)
+- [https://fontawesome.com/](https://fontawesome.com/)
 
 ### Images
 
@@ -236,7 +235,7 @@ Which app uses this 3d art?... Yes! Rappi. Can you see how the art allows users 
 
 <p>
 <p align="center">
-<img src="../assets/Ilustaciones2d.png">
+<img src="../assets/Ilustraciones2d.png">
 
 _(Taken from [Freepick by Storyset](https://www.freepik.es/autor/stories) )_
 
