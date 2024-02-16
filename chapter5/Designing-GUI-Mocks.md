@@ -242,7 +242,7 @@ _(Taken from [Freepick by Storyset](https://www.freepik.es/autor/stories) )_
 </p>
 
 You can consult many art styles and trend in:
-- [2D / 3D illustrations, shapes, and photography (free and paid):] (https://www.freepik.com/)
+- [2D / 3D illustrations, shapes, and photography (free and paid): ](https://www.freepik.com/)
 - Free photos: [https://www.pexels.com/](https://www.pexels.com/) and [https://pixabay.com/](https://pixabay.com/)
 - Flat illustrations (flat art): [https://www.flaticon.com/](https://www.flaticon.com/)
 
