@@ -1,5 +1,5 @@
 # Chapter 5: A GUI is better than two thousand words
-\(By Mario Linares-Vásquez, Mariana Villamizar, Juan Santiago Acevedo, Gustavo Alegría, Sergio Velásquez and Vivian Gómez\)
+\(By Mario Linares-Vásquez, Vivian Gómez, Mariana Villamizar, Juan Santiago Acevedo, Gustavo Alegría, and Sergio Velásquez\)
 
 ---
 
