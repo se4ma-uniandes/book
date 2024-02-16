@@ -65,7 +65,7 @@ Just remember that less is more... don't complicate your logo too much. Take a l
 
 <p>
 <p align="center">
-<img src="../assets/LogoLessIsMore.jpeg">
+<img src="../assets/LogoLessIsMore.jpg">
 
 _(Taken from [1000Logos](https://1000logos.net/burger-king-logo/) )_
 
@@ -89,7 +89,7 @@ You can choose random colors for your app and continue with the other work, but 
 
 <p>
 <p align="center">
-<img src="../assets/Psychology-of-Color.jpeg">
+<img src="../assets/Psychology-of-Color.jpg">
 
 _(Taken from [shamrockcompanies.com](https://shamrockcompanies.net/the-psychology-of-color-in-brand-marketing/) )_
 
@@ -161,11 +161,81 @@ So, if you decide to use 'filled' icons, use them throughout the entire app, but
 The same applies to illustrations and photography... but let's explore the types of art that exist in each case, so you can have a clear view and make a wise choice.
 
 ### Icons
+There are many types of icons, but the important thing is that when you select the graphic style that best aligns with your app, stick with that and don't add several types.
 
-### Ilustrations
+Some well-known trends and types include:
 
-### Photography
+#### Basic icons (filled and outline)
+<p>
+<p align="center">
+<img src="../assets/BasicIcons.png">
 
-### Less is more
+_(Taken from [Material Design](https://m2.material.io/design/iconography/system-icons.html#design-principles))_
+
+</p>
+
+> You can change the basic icons color, using your color palette. Usually with primary color, but it depends on the hierachy of the UI element that have the icon (ex: navigation, buttton, forms, etc)
+
+#### Icons with shapes in color
+<p>
+<p align="center">
+<img src="../assets/ColorShapesIcons.png">
+
+_(Taken from [Designshack](https://designshack.net/articles/trends/icon-design/))_
+
+</p>
+
+
+### Full-color icons
+<p>
+<p align="center">
+<img src="../assets/FullColorIcons.png">
+
+_(Taken from [Dribble by Lei S](https://dribbble.com/shots/6435172-Simple-Colour-Icon))_
+
+</p>
+
+
+You can find exportable icons to Figma and development tools at:
+- https://iconos8.es/icons
+- https://m2.material.io/design/iconography/system-icons.html
+- https://www.flaticon.com/
+- https://fontawesome.com/
+
+### Images
+
+Like with the icons, there are many types of images that you can use. For example, photographs, 3D illustrations, vectors, or cartoons.
+
+We recommend you to use a maximum of two types of images and to stick to the same type to maintain consistency.
+Let's take a look at some examples of types.
+
+#### 3d illustration
+
+You recognize this:
+
+<p>
+<p align="center">
+<img src="../assets/3dRappiExample.png">
+
+_(Taken from [Behance by Pablo Vargas](https://www.behance.net/gallery/100884771/Rappi-Elementos-3D/modules/581672407
+))_
+
+</p>
+
+Which app uses this 3d art?... Yes! Rappi. Can you see how the art allows users to identify brands? ;)
+
+#### Vector Illustrarions (2d)
+
+You can consult many art styles and trend in:
+- 2D / 3D illustrations, shapes, and photography (free and paid): https://www.freepik.com/
+- Free photos: https://www.pexels.com/ and https://pixabay.com/
+- Flat illustrations (flat art): https://www.flaticon.com/
+
+Consult resource for inspiration and references in:
+- [Behance](https://www.behance.net/search/projects/mobile%20ui%20design)
+- [Dribble](https://dribbble.com/tags/mobile-ui-design)
+
+
+Note that in SeneCare, we only use vector images, which aim to convey a friendly language to explain each interaction or given information.
 
 
