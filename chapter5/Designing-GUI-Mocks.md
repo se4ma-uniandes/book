@@ -211,6 +211,14 @@ Let's take a look at some examples of types.
 
 #### 3d illustration
 
+<p>
+<p align="center">
+<img src="../assets/Ilustraciones3D.png">
+
+_(Collage by [Behance sources](https://www.behance.net))_
+
+</p>
+
 You recognize this:
 
 <p>
@@ -226,6 +234,14 @@ Which app uses this 3d art?... Yes! Rappi. Can you see how the art allows users 
 
 #### Vector Illustrarions (2d)
 
+<p>
+<p align="center">
+<img src="../assets/Ilustaciones2d.png">
+
+_(Taken from [Freepick by Storyset](https://www.freepik.es/autor/stories) )_
+
+</p>
+
 You can consult many art styles and trend in:
 - 2D / 3D illustrations, shapes, and photography (free and paid): https://www.freepik.com/
 - Free photos: https://www.pexels.com/ and https://pixabay.com/
@@ -235,7 +251,12 @@ Consult resource for inspiration and references in:
 - [Behance](https://www.behance.net/search/projects/mobile%20ui%20design)
 - [Dribble](https://dribbble.com/tags/mobile-ui-design)
 
-
 Note that in SeneCare, we only use vector images, which aim to convey a friendly language to explain each interaction or given information.
 
+<p>
+<p align="center">
+<img src="../assets/IlustacionesSeneCare.png">
 
+_(Taken from [SeneCare](https://thesoftwaredesignlab.github.io/Senecare/) )_
+
+</p>
