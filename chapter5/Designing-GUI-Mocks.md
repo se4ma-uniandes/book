@@ -23,7 +23,7 @@ _(Taken from [synapseindia.com](https://www.synapseindia.com/technology/ui-ux-de
 </p>
 
 To design each element, we can use some models. First, the **UX model**; it represents the design of the navigation flow in the app. It answers the questions of _what_ we are going to show and _where_ we are going to show it. For example, it includes the location of the "buying" button, the distribution of the products, and architectural information such as the navigation bar and its content.
-The second is the **UI model**, that is _how_ I want the user to see the things defined in the UX model. The final product of a UX Model is a **Wireframe** of the application, while the final product of the UI Model is a **Mockup** of the application. Check this article for more information about the difference between UX and UI [An App Entrepreneur’s Guide to Mobile UX and UI Design](http://www.launchpadapps.com.au/blog/mobile-app-ux-ui-design/)
+The second is the **UI model**, that is _how_ I want the user to see the things defined in the UX model. The final product of a UX Model is a **Wireframe** of the application, while the final product of the UI Model is a **Mockup** of the application. Check this article for more information about the difference between UX and UI [_What is the difference between UI and UX?_](https://www.figma.com/resource-library/difference-between-ui-and-ux/)
 
 <p>
 <p align="center">
